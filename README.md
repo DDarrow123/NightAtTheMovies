@@ -17,6 +17,6 @@ In order to setup this game an API Key is needed from the MovieQuotes API ruby g
  * then `cd` into frontend/night-at-the-movies-client
  * here run `npm-install && npm start` in terminal and you should be ready to explore the game. 
  
- #### Link to demo: https://youtu.be/NgPOJoNO_a0
+ #### Link to demo: https://youtu.be/5U2cS3CsKZM
  
  Have Fun!
